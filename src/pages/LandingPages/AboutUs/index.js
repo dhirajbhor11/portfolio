@@ -33,8 +33,6 @@ import DefaultFooter from "examples/Footers/DefaultFooter";
 // About Us page sections
 import DesignBlocks from "pages/LandingPages/AboutUs/sections/DesignBlocks";
 import Projects from "pages/LandingPages/AboutUs/sections/Projects";
-// import Featuring from "pages/LandingPages/AboutUs/sections/Featuring";
-// import Newsletter from "pages/LandingPages/AboutUs/sections/Newsletter";
 import Counters from "pages/LandingPages/AboutUs/sections/Counters";
 
 // Routes
@@ -97,9 +95,6 @@ function AboutUs() {
             <MKTypography variant="body1" color="white" opacity={0.8} mt={1} mb={3}>
               Full-Stack Developer | Data Analyst | React Developer
             </MKTypography>
-            {/* <MKButton color="default" sx={{ color: ({ palette: { dark } }) => dark.main }}>
-              create account
-            </MKButton> */}
             <MKTypography variant="h6" color="white" mt={8} mb={1}>
               Skills
             </MKTypography>
@@ -160,8 +155,6 @@ function AboutUs() {
         <Counters />
         <DesignBlocks />
         <Projects />
-        {/* <Featuring /> */}
-        {/* <Newsletter /> */}
       </Card>
       <MKBox pt={6} px={1} mt={6}>
         <DefaultFooter />
