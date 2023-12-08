@@ -14,7 +14,7 @@ Coded by dhirajbhor11
 */
 
 /** 
-  All of the routes for the Material Kit 2 React are added here,
+  All of the routes for the dhirajbhor11 portfolio are added here,
   You can add a new route, customize the routes and delete the routes here.
 
   Once you add a new route on this file it will be visible automatically on

@@ -13,7 +13,7 @@ Coded by dhirajbhor11
 * .
 */
 
-// Material Kit 2 React Helper Functions
+// dhirajbhor11 portfolio Helper Functions
 import pxToRem from "assets/theme/functions/pxToRem";
 
 export default {

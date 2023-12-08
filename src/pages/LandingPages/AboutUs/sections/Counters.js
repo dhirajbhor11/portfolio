@@ -18,10 +18,10 @@ import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Divider from "@mui/material/Divider";
 
-// Material Kit 2 React components
+// dhirajbhor11 portfolio components
 import MKBox from "components/MKBox";
 
-// Material Kit 2 React examples
+// dhirajbhor11 portfolio examples
 import DefaultCounterCard from "examples/Cards/CounterCards/DefaultCounterCard";
 
 function Counters() {

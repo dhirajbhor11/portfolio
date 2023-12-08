@@ -13,10 +13,10 @@ Coded by dhirajbhor11
 * .
 */
 
-// Material Kit 2 React base styles
+// dhirajbhor11 portfolio base styles
 import colors from "assets/theme/base/colors";
 
-// Material Kit 2 React helper functions
+// dhirajbhor11 portfolio helper functions
 import rgba from "assets/theme/functions/rgba";
 
 const { info, white, gradients } = colors;

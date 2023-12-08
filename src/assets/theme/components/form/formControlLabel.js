@@ -13,11 +13,11 @@ Coded by dhirajbhor11
 * .
 */
 
-// Material Kit 2 React base styles
+// dhirajbhor11 portfolio base styles
 import colors from "assets/theme/base/colors";
 import typography from "assets/theme/base/typography";
 
-// Material Kit 2 React helper functions
+// dhirajbhor11 portfolio helper functions
 import pxToRem from "assets/theme/functions/pxToRem";
 
 const { dark } = colors;

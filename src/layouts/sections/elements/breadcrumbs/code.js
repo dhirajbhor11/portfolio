@@ -2,10 +2,10 @@ const badgesSimpleCode = `// @mui material components
 import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 
-// Material Kit 2 React components
+// dhirajbhor11 portfolio components
 import MKBox from "components/MKBox";
 
-// Material Kit 2 React examples
+// dhirajbhor11 portfolio examples
 import Breadcrumbs from "examples/Breadcrumbs";
 
 function BreadcrumbsEL() {

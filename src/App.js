@@ -22,10 +22,10 @@ import { Routes, Route, Navigate, useLocation } from "react-router-dom";
 import { ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 
-// Material Kit 2 React themes
+// dhirajbhor11 portfolio themes
 import theme from "assets/theme";
 
-// Material Kit 2 React routes
+// dhirajbhor11 portfolio routes
 import routes from "routes";
 import AboutUs from "pages/LandingPages/AboutUs";
 

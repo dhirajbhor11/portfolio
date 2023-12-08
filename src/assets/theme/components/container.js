@@ -13,10 +13,10 @@ Coded by dhirajbhor11
 * .
 */
 
-// Material Kit 2 React base styles
+// dhirajbhor11 portfolio base styles
 import breakpoints from "assets/theme/base/breakpoints";
 
-// Material Kit 2 React helper functions
+// dhirajbhor11 portfolio helper functions
 import pxToRem from "assets/theme/functions/pxToRem";
 
 const {

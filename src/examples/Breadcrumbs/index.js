@@ -22,7 +22,7 @@ import { Link } from "react-router-dom";
 // @mui material components
 import MuiBreadcrumbs from "@mui/material/Breadcrumbs";
 
-// Material Kit 2 React components
+// dhirajbhor11 portfolio components
 import MKBox from "components/MKBox";
 import MKTypography from "components/MKTypography";
 

@@ -13,7 +13,7 @@ Coded by dhirajbhor11
 * .
 */
 
-// Material Kit 2 React components
+// dhirajbhor11 portfolio components
 import MKBox from "components/MKBox";
 
 // Sections components

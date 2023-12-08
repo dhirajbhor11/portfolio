@@ -13,7 +13,7 @@ Coded by dhirajbhor11
 * .
 */
 
-// Material Kit 2 React Base Styles
+// dhirajbhor11 portfolio Base Styles
 import colors from "assets/theme/base/colors";
 
 const { transparent } = colors;

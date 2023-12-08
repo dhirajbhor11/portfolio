@@ -1,13 +1,13 @@
-# [Material Kit 2 React](http://demos.creative-tim.com/material-kit-react/#/?ref=readme-mkr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-kit-react&text=Check%20Material%20kit%20React%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#react%20https://www.creative-tim.com/product/material-kit-react)
+# [dhirajbhor11 portfolio](http://demos.creative-tim.com/material-kit-react/#/?ref=readme-mkr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-kit-react&text=Check%20Material%20kit%20React%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#react%20https://www.creative-tim.com/product/material-kit-react)
 
 ![version](https://img.shields.io/badge/version-2.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-kit-react.svg)](https://github.com/creativetimofficial/material-kit-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-kit-react.svg)](https://github.com/creativetimofficial/material-kit-react/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/83/original/material-kit-2-react.jpg)
 
-Material Kit 2 React is our newest free MUI Design System based on React. Its amazing design is inspired by Material Design and contains all the components you need for your development. If you’re a developer looking to create good-looking websites, rich with features, and highly customisable, here is your match.
+dhirajbhor11 portfolio is our newest free MUI Design System based on React. Its amazing design is inspired by Material Design and contains all the components you need for your development. If you’re a developer looking to create good-looking websites, rich with features, and highly customisable, here is your match.
 
 _Fully Coded Elements_
-Material Kit 2 React is built with over 40 frontend individual elements, like buttons, inputs, navbars, alerts or cards, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using MUI styled() API and sx prop. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
+dhirajbhor11 portfolio is built with over 40 frontend individual elements, like buttons, inputs, navbars, alerts or cards, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using MUI styled() API and sx prop. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
 
 This free MUI & React template is coming with pre-built design blocks, so the development process is seamless,
 switching from our pages to the real website is very easy to be done.
@@ -37,7 +37,7 @@ During the development of this dashboard, we have used many existing resources f
 - [React Countup](https://github.com/glennreyes/react-countup) - A lightweight React component that can be used to quickly create animations that display numerical data in a more interesting way.
 - [React Syntax Highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - Syntax highlighting component for react with prismjs or highlightjs ast using inline styles.
 - [ChromaJS](https://gka.github.io/chroma.js/) - A small-ish zero-dependency JavaScript library for all kinds of color conversions and color scales.
-- [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Material Kit 2 React. You can use it to gain insights into your sources of traffic.
+- [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with dhirajbhor11 portfolio. You can use it to gain insights into your sources of traffic.
 
 Let us know your thoughts below. And good luck with development!
 
@@ -62,7 +62,7 @@ Let us know your thoughts below. And good luck with development!
 | React |
 | ----- |
 
-| [![Material Kit 2 React](https://s3.amazonaws.com/creativetim_bucket/products/83/thumb/material-kit-2-react.jpg)](http://demos.creative-tim.com/material-kit-react/#/?ref=readme-mkr)
+| [![dhirajbhor11 portfolio](https://s3.amazonaws.com/creativetim_bucket/products/83/thumb/material-kit-2-react.jpg)](http://demos.creative-tim.com/material-kit-react/#/?ref=readme-mkr)
 
 ## Demo
 
@@ -111,13 +111,8 @@ material-kit-2-react
     │   ├── components
     │   │   ├── MKAlert
     │   │   ├── MKAvatar
-    │   │   ├── MKBadge
     │   │   ├── MKBox
     │   │   ├── MKButton
-    │   │   ├── MKDatePicker
-    │   │   ├── MKInput
-    │   │   ├── MKPagination
-    │   │   ├── MKrogress
     │   │   ├── MKSocialButton
     │   │   └── MKTypography
     │   ├── examples
@@ -127,22 +122,17 @@ material-kit-2-react
     │   │   └── Navbars
     │   ├── layouts
     │   │   ├── pages
-    │   │   │    ├── authentication
     │   │   │    ├── landing-pages
-    │   │   │    └── presentation
     │   │   ├── sections
     │   │   │    ├── attention-catchers
     │   │   │    ├── components
     │   │   │    ├── elements
-    │   │   │    ├── input-areas
     │   │   │    ├── navigation
     │   │   └──  └── page-sections
     │   ├── pages
     │   │   ├── LandingPages
-    │   │   └── Presentation
     │   ├── App.js
     │   ├── index.js
-    │   ├── footer.routes.js
     │   └── routes.js
     ├── .eslintrc.json
     ├── .prettierrc.json
@@ -152,49 +142,6 @@ material-kit-2-react
     ├── package.json
     └── README.md
 ```
-
-## Browser Support
-
-At present, we officially aim to support the last two versions of the following browsers:
-
-<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
-
-## Resources
-
-- [Live Preview](https://demos.creative-tim.com/material-kit-react/#/?ref=readme-mkr)
-- [Buy Page](https://www.creative-tim.com/product/material-kit-react?ref=readme-mkr)
-- Documentation is [here](https://www.creative-tim.com/learning-lab/react/overview/material-kit/?ref=readme-mkr)
-- [License Agreement](https://www.creative-tim.com/license?ref=readme-mkr)
-- [Support](https://www.creative-tim.com/contact-us?ref=readme-mkr)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-kit-react/issues)
-- [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Material Kit 2 React. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Material Kit 2 React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/material-kit-react?ref=readme-mkr).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-mkr) instead of opening an issue.
-
-## Licensing
-
-- Copyright 2023 [Creative Tim](https://www.creative-tim.com?ref=readme-mkr)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-mkr)
-
-## Useful Links
-
-- [More products](https://www.creative-tim.com/templates?ref=readme-mkr) from Creative Tim
-
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-mkr) from Creative Tim
-
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-mkr) (earn money)
 
 ##### Social Media
 

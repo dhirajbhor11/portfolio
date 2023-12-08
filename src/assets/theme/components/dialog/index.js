@@ -13,7 +13,7 @@ Coded by dhirajbhor11
 * .
 */
 
-// Material Kit 2 React base styles
+// dhirajbhor11 portfolio base styles
 import borders from "assets/theme/base/borders";
 import boxShadows from "assets/theme/base/boxShadows";
 

@@ -14,15 +14,15 @@ Coded by dhirajbhor11
 */
 
 /**
- * The base box-shadow styles for the Material Kit 2 React.
+ * The base box-shadow styles for the dhirajbhor11 portfolio.
  * You can add new box-shadow using this file.
- * You can customized the box-shadow for the entire Material Kit 2 React using thie file.
+ * You can customized the box-shadow for the entire dhirajbhor11 portfolio using thie file.
  */
 
-// Material Kit 2 React Base Styles
+// dhirajbhor11 portfolio Base Styles
 import colors from "assets/theme/base/colors";
 
-// Material Kit 2 React Helper Functions
+// dhirajbhor11 portfolio Helper Functions
 import boxShadow from "assets/theme/functions/boxShadow";
 
 const { black, white, tabs, coloredShadows } = colors;

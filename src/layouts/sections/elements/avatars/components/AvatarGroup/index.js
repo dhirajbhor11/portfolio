@@ -18,7 +18,7 @@ import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import MuiAvatarGroup from "@mui/material/AvatarGroup";
 
-// Material Kit 2 React components
+// dhirajbhor11 portfolio components
 import MKBox from "components/MKBox";
 import MKAvatar from "components/MKAvatar";
 

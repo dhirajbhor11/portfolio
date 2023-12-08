@@ -19,7 +19,7 @@ import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Icon from "@mui/material/Icon";
 
-// Material Kit 2 React components
+// dhirajbhor11 portfolio components
 import MKPagination from "components/MKPagination";
 
 function PaginationSimple() {

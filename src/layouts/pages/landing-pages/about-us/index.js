@@ -13,7 +13,7 @@ Coded by dhirajbhor11
 * .
 */
 
-// Material Kit 2 React pages
+// dhirajbhor11 portfolio pages
 import AboutUs from "pages/LandingPages/AboutUs";
 
 export default function AboutUsPage() {

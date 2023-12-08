@@ -14,9 +14,9 @@ Coded by dhirajbhor11
 */
 
 /**
- * The base colors for the Material Kit 2 React.
+ * The base colors for the dhirajbhor11 portfolio.
  * You can add new color using this file.
- * You can customized the colors for the entire Material Kit 2 React using thie file.
+ * You can customized the colors for the entire dhirajbhor11 portfolio using thie file.
  */
 
 export default {

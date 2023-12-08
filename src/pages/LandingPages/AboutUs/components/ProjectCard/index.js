@@ -19,7 +19,7 @@ import PropTypes from "prop-types";
 // @mui material components
 import Grid from "@mui/material/Grid";
 
-// Material Kit 2 React components
+// dhirajbhor11 portfolio components
 import MKBox from "components/MKBox";
 // import MKButton from "components/MKButton";
 import MKTypography from "components/MKTypography";

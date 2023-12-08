@@ -14,10 +14,10 @@ Coded by dhirajbhor11
 * .
 */
 
-// Material Kit 2 React components
+// dhirajbhor11 portfolio components
 import MKBox from "components/MKBox";
 
-// Material Kit 2 React examples
+// dhirajbhor11 portfolio examples
 import DefaultNavbar from "examples/Navbars/DefaultNavbar";
 
 // Routes

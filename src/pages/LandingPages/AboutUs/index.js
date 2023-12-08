@@ -21,12 +21,12 @@ import Tooltip from "@mui/material/Tooltip";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChartColumn, faFire, faCloud } from "@fortawesome/free-solid-svg-icons";
 
-// Material Kit 2 React components
+// dhirajbhor11 portfolio components
 import MKBox from "components/MKBox";
 import MKTypography from "components/MKTypography";
 // import MKButton from "components/MKButton";
 
-// Material Kit 2 React examples
+// dhirajbhor11 portfolio examples
 import DefaultNavbar from "examples/Navbars/DefaultNavbar";
 import DefaultFooter from "examples/Footers/DefaultFooter";
 
