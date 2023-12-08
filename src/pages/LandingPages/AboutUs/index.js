@@ -48,9 +48,10 @@ function AboutUs() {
         routes={routes}
         action={{
           type: "external",
-          route: "#",
+          route: "assets/dhirajResume.pdf",
           label: "Download Resume",
           color: "default",
+          download: "download",
         }}
         transparent
         light

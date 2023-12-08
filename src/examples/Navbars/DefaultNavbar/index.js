@@ -506,9 +506,12 @@ function DefaultNavbar({ brand, routes, transparent, light, action, sticky, rela
                 </MKButton>
               ) : (
                 <MKButton
-                  component="a"
-                  href={action.route}
-                  target="_blank"
+                  onClick={() => {
+                    const link = document.createElement("a");
+                    link.download = `dhirajResume.pdf`;
+                    link.href = action.route;
+                    link.click();
+                  }}
                   rel="noreferrer"
                   variant={
                     action.color === "white" || action.color === "default"
@@ -584,6 +587,7 @@ DefaultNavbar.propTypes = {
         "white",
       ]),
       label: PropTypes.string.isRequired,
+      download: PropTypes.string,
     }),
   ]),
   sticky: PropTypes.bool,
