@@ -1,10 +1,10 @@
 {
+  "homepage": "http://dhirajbhor11.github.io/portfolio",
   "name": "portfolio",
   "version": "1.0.0",
   "private": true,
   "author": "dhirajbhor11",
   "description": "React version of dhirajbhor11 portfolio by dhiraj bhor",
-  "homepage": "https://github.com/dhirajbhor11/portfolio",
   "repository": {
     "type": "git",
     "url": "https://github.com/dhirajbhor11/portfolio"
@@ -42,6 +42,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy" : "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint ./src",
@@ -73,6 +75,7 @@
     "eslint-plugin-prettier": "4.2.1",
     "eslint-plugin-react": "7.32.2",
     "eslint-plugin-react-hooks": "4.6.0",
+    "gh-pages": "^6.1.0",
     "prettier": "2.8.7"
   }
 }
