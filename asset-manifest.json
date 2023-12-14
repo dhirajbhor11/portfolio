@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.45c125f1.js",
+    "static/media/dhirajgpt.png": "/portfolio/static/media/dhirajgpt.56e36f73aaf3f7caffb5.png",
+    "static/media/dhirajResume.pdf": "/portfolio/static/media/dhirajResume.d27a7c8ae10fbaaa9779.pdf",
+    "static/media/bg-about-us-2.jpg": "/portfolio/static/media/bg-about-us-2.3634bc3910011a741872.jpg",
+    "static/media/tripWith.png": "/portfolio/static/media/tripWith.2e51c5f935adf2b9716b.png",
+    "static/media/power-bi.png": "/portfolio/static/media/power-bi.bf3962f67762b9668fdb.png",
+    "static/media/2048.png": "/portfolio/static/media/2048.afa8147f7358f5be0071.png",
+    "index.html": "/portfolio/index.html",
+    "main.45c125f1.js.map": "/portfolio/static/js/main.45c125f1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.45c125f1.js"
+  ]
+}
