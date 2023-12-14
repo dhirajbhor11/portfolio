@@ -39,7 +39,9 @@ import Counters from "pages/LandingPages/AboutUs/sections/Counters";
 import routes from "routes";
 
 // Images
-import bgImage from "assets/images/bg-about-us.jpg";
+import bgImage from "assets/images/bg-about-us-2.jpg";
+import dhirajResume from "assets/dhirajResume.pdf";
+import Information from "./sections/Information";
 
 function AboutUs() {
   return (
@@ -48,7 +50,7 @@ function AboutUs() {
         routes={routes}
         action={{
           type: "external",
-          route: "assets/dhirajResume.pdf",
+          route: dhirajResume,
           label: "Download Resume",
           color: "default",
           download: "download",
@@ -155,6 +157,7 @@ function AboutUs() {
       >
         <Counters />
         <DesignBlocks />
+        <Information />
         <Projects />
       </Card>
       <MKBox pt={6} px={1} mt={6}>
